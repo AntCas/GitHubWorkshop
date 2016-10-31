@@ -1,4 +1,4 @@
-Overview (60 minutes total)
+Overview (60 minutes total) ~
 
 00-05 introduction of the material
 05-10 introduction of the first activity
@@ -37,7 +37,7 @@ Run of Show (60 minutes total)
 		log: a history of all the versions of your project that you've saved with git
 		commit: the act of saving a version of your project to git. A git commit is a snapshot of your project at a certain moment in time.
 
-	Everyone should have their laptops out and a terminal window open. We are going to create a initialize a new git repo and make commit some changes. Follow along with the slide, if you get stuck ask your nighbor or one of us. We are on a schedule, so don't worry if you don't get all the way through. 
+	Everyone should have their laptops out and a terminal window open. We are going to initialize a new git repo and make commit some changes. Follow along with the slide, if you get stuck ask your nighbor or one of us. We are on a schedule, so don't worry if you don't get all the way through. We'll do the first part together
 
 10-20 activity #1 (10 minutes long)
 	<Do this part on the projector: (5 min with Sam helping people who get stuck)>
