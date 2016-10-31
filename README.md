@@ -1,24 +1,16 @@
 Overview (60 minutes total)
 
 00-05 introduction of the material
-
 05-10 introduction of the first activity
-
 10-20 activity #1 (10 minutes long)
-
 20-25 go over what we just did
-
 25-30 intoduce second activity
-
 30-40 activity #2 (10 minutes long)
-
 40-45 go over what we just did
-
 45-47 introduce activity #3
-
 47-57 go over what we just did
-
 57-60 closing remarks
+
 
 Run of Show (60 minutes total)
 
