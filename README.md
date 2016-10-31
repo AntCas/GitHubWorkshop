@@ -1,17 +1,30 @@
 Overview (60 minutes total)
+
 00-05 introduction of the material
+
 05-10 introduction of the first activity
+
 10-20 activity #1 (10 minutes long)
+
 20-25 go over what we just did
+
 25-30 intoduce second activity
+
 30-40 activity #2 (10 minutes long)
+
 40-45 go over what we just did
+
 45-47 introduce activity #3
+
 47-57 go over what we just did
+
 57-60 closing remarks
 
 Run of Show (60 minutes total)
+
 00-05 introduction of the material
+
+
 	Intro Slide
 		"Hello, welcome to the GitHub workshop, I hope you're all in the right place. My name is Anthony, and I'll be your guide today and this is Sam who will be helping me. I first learned git during my first internship. When I was interviewing for the position I thought I knew how to use git and I managed to convince the person who interviewed me, who happened to be the CEO, this was a very small 5-person startup, that I knew git. Then on the first day, they asked me to fetch their code, to make a pull request, and I realized I had no idea what was going on. So that afternoon I learned how to use git so I wouldn't lose my job. Since then I've used git all the time for class and for 3 other technical internships, and I've realized that even at a professional level, many people are still very uncomfortable with git. You definitely are not alone if you feel that git is complicated, that it has a steep learning curve. Most people don't really understand what is happening. Hopefully over the next hour we will get you to a place where you feel comfortable using the basics of git so it can be a useful tool to you in class and during hackathons instead of an the intimidating obstacle it often is."
 	Short git intro
