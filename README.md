@@ -29,6 +29,7 @@ Run of Show (60 minutes total)
 				Which is what we usually end up doing at hackathons
 
 05-10 introduction of the first activity
+
 	The first thing we are going to try then is tracking changes. The version control part of git. 
 	First some vocab:
 		repo (or repository): a directory or folder that contains a git project
@@ -40,6 +41,7 @@ Run of Show (60 minutes total)
 	Everyone should have their laptops out and a terminal window open. We are going to create a initialize a new git repo and make commit some changes. Follow along with the slide, if you get stuck ask your nighbor or one of us. We are on a schedule, so don't worry if you don't get all the way through. 
 
 10-20 activity #1 (10 minutes long)
+
 	<Do this part on the projector: (5 min with Sam helping people who get stuck)>
 	make a new file called MyRepo
 	In the terminal, navigate to MyRepo (cd MyRepo)
@@ -56,6 +58,7 @@ Run of Show (60 minutes total)
 	<keep what you just did on the projector for people to copy><Set timer 5 minutes>
 
 20-25 go over what we just did
+
 		Alright, awesome. How did everyone do? Thumbs up if you were able to save a commit. Thumbs down if no. <Calibrate accordingly>
 
 		Some of that might be confusing right now, and there's a good chance you won't retain all of it after this workshop, and that's OK! Just try and remember these concepts, and when you forget just ask someone nearby or search for it on Google. Asking questions is 99% of software engineering including git. You're measure of competence should not be how much you know, it should be how fast you can find the answer. And the fastest way to find the answer is usually by Googling it or just asking someone. You probably have found this out already in class and at your internships, and it works just the same with git.
@@ -66,6 +69,7 @@ Run of Show (60 minutes total)
 		We learned about the staging area which let's us see what changes we are recording
 
 25-30 intoduce second activity
+
 	Now we're going to learn about another very useful component of git, branching.
 
 	More vocab:
@@ -74,6 +78,7 @@ Run of Show (60 minutes total)
 		checkout: switching between different commits (which you'll remember is a snapshot of your code)
 
 30-40 activity #2 (10 minutes long)
+
 	<Do this part on the projector: (5 min with Sam helping people who get stuck)>
 	~$ git checkout -b new_branch // create the new branch. In the future you will google "How to create a new branch in git"
 	~$ git branch // view branches
@@ -86,6 +91,7 @@ Run of Show (60 minutes total)
 40-45 go over what we just did
 
 45-47 introduce activity #3
+
 	Vocab:
 		pull
 		push
